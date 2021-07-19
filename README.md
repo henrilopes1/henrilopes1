@@ -1,7 +1,7 @@
 # Henri Lopes 
 
-[![Twitter Badge](https://img.shields.io/badge/-@HHenrilop-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/HHenrilop)
-[![Linkedin Badge](https://img.shields.io/badge/-Henri%20Lopes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henri-lopes-b54b6720a/)
+![Twitter Badge](https://img.shields.io/badge/-@HHenrilop-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/HHenrilop)
+![Linkedin Badge](https://img.shields.io/badge/-Henri%20Lopes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henri-lopes-b54b6720a/)
 
 
 Eae, tudo bem? 

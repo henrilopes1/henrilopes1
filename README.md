@@ -16,5 +16,5 @@ Meu nome é Henri Lopes, Estou cursando o 2ºano do ensino médio técnico em in
  - 🧠   Dev Front-end Jr.
  - 💬  Sobre mim: Gosto muito de games, animes, basquete, filmes e tênis!! 
  - ✨ 16 anos
- <img src=https://media.giphy.com/media/26ybvOkkmathUXss0/giphy.gif align="right" height="160" width="180">
+ <img src=https://media.giphy.com/media/26ybvOkkmathUXss0/giphy.gif align="right" height="200" width="180">
   

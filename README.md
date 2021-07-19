@@ -1,16 +1,14 @@
-### Hi there 👋
+# Henri Lopes 
 
-<!--
-**henrizin/henrizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eae, tudo bem? 
 
-Here are some ideas to get you started:
+Meu nome é Henri Lopes, Estou cursando o 2ºano do ensino médio técnico em informática no Senac, Estou aprendendo a programar desde de 2020 e sigo aprendendo mais!👨🏻‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌎"Quanto mais eu sei, mais eu sou"🧠**
+
+ - 📍   São Paulo/ Brasil
+ - 👨🏻‍💻  Aprendendo Back-end | Full-Stack
+ - 🧠   Dev Front-end Jr.
+ - 💬  Sobre mim: Gosto muito de games, animes, basquete e filmes!! 
+ - ✨ 16 anos
+ 

@@ -13,9 +13,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
 </div>
-Eae, tudo bem? 
+
+  Eae, tudo bem? 
 
 Meu nome é Henri Lopes, Estou cursando o 2ºano do ensino médio técnico em informática no Senac, Estou aprendendo a programar desde de 2020 e sigo aprendendo mais!👨🏻‍💻 
 

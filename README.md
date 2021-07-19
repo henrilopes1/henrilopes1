@@ -14,7 +14,7 @@ Meu nome é Henri Lopes, Estou cursando o 2ºano do ensino médio técnico em in
  - 📍   São Paulo/ Brasil
  - 👨🏻‍💻  Aprendendo Back-end | Full-Stack
  - 🧠   Dev Front-end Jr.
- - 💬  Sobre mim: Gosto muito de games, animes, basquete, filmes e tênis!! 
+ - 💬  Sobre mim: Gosto muito de games, animes, basquete, filmes e sneakers!! 
  - ✨ 16 anos
  <img src=https://media.giphy.com/media/26ybvOkkmathUXss0/giphy.gif align="right" height="300" width="250">
   

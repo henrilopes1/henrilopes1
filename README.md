@@ -24,7 +24,7 @@
 
   Eae, tudo bem? 
 
-Meu nome é Henri Lopes, Estou cursando o primeiro semestre de Engenharia de Software na FIAP, Estou aprendendo a programar desde de 2020 e sigo aprendendo mais!👨🏻‍💻 
+Meu nome é Henri Lopes, Estou cursando o primeiro semestre de Engenharia de Software na FIAP.
 
 **🌎"Quanto mais eu sei, mais eu sou"🧠**
 

@@ -1,5 +1,13 @@
 # Henri Lopes 
 
+  Eae, tudo bem?
+
+ - 📍  São Paulo/ Brasil
+ - 💬 Estudante Engenharia de software 2/8
+ - ✨  18 anos
+
+ **🌎"Quanto mais eu sei, mais eu sou"🧠**
+
 <a href="https://github.com/henrilopes1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrilopes1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrilopes1&layout=compact&langs_count=7&theme=cobalt"/>
@@ -23,16 +31,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-  Eae, tudo bem? 
-
-Meu nome é Henri Lopes, Estou cursando o primeiro semestre de Engenharia de Software na FIAP.
-
-**🌎"Quanto mais eu sei, mais eu sou"🧠**
-
- - 📍  São Paulo/ Brasil
- - 👨🏻‍💻  Aprendendo | Full-Stack
- - 💬  Sobre mim: Gosto muito de games, animes, basquete, filmes e Tenis!! 
- - ✨  17 anos
- <img src=https://media.giphy.com/media/26ybvOkkmathUXss0/giphy.gif align="right" height="300" width="250">
-  

@@ -3,7 +3,7 @@
   Eae, tudo bem?
 
  - 📍  São Paulo/ Brasil
- - 💬 Estudante Engenharia de software 2/8
+ - 💬 Estudante Engenharia de software 3/8
  - ✨  18 anos
 
  **🌎"Quanto mais eu sei, mais eu sou"🧠**
